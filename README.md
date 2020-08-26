@@ -1,2 +1,2 @@
 # debian
-About Debian
+Basic and clean Debian install
